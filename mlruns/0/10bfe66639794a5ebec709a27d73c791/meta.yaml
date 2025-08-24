@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/10bfe66639794a5ebec709a27d73c791/artifacts
+deleted_time: 1756041872164
+end_time: 1756041684025
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 10bfe66639794a5ebec709a27d73c791
+run_name: rare-pig-641
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756041681264
+status: 3
+tags: []
+user_id: govin

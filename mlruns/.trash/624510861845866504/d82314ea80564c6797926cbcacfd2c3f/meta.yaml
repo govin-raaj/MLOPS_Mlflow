@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/624510861845866504/d82314ea80564c6797926cbcacfd2c3f/artifacts
+deleted_time: 1756044182872
+end_time: 1756041837878
+entry_point_name: ''
+experiment_id: '624510861845866504'
+lifecycle_stage: deleted
+run_id: d82314ea80564c6797926cbcacfd2c3f
+run_name: fun-foal-919
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756041837226
+status: 3
+tags: []
+user_id: govin

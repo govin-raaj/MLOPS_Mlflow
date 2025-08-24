@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/454614838535413aaec6b91be848a30b/artifacts
+deleted_time: 1756041864763
+end_time: 1756041660067
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 454614838535413aaec6b91be848a30b
+run_name: crawling-croc-81
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756041657372
+status: 4
+tags: []
+user_id: govin
